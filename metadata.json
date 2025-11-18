@@ -1,0 +1,5 @@
+{
+  "name": "Binary Practice Game",
+  "description": "An interactive game designed to help students practice binary-to-decimal and decimal-to-binary conversions, tailored for the AP Computer Science Principles curriculum.",
+  "requestFramePermissions": []
+}
